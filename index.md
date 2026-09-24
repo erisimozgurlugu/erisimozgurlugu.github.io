@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Erişim Özgürlüğü
+nav_order: 0
 ---
 
 # Erişim Özgürlüğü
