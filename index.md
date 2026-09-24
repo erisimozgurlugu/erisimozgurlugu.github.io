@@ -1,1 +1,5 @@
-# Erişim Özgürlüğü
+---
+layout: page
+title: Erişim Özgürlüğü
+---
+
